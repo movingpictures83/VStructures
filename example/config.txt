@@ -1,0 +1,2 @@
+Prefix plugins/VStructures/example/
+Plugin VStructures inputfile input.rds outputfile vstructs.csv
